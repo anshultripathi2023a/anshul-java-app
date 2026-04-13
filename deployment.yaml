@@ -12,7 +12,6 @@ app: anshul-java-app
 template: 
 metadata: 
 labels: 
-deployment.yaml 
         app: anshul-java-app 
     spec: 
       containers: 
